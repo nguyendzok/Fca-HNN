@@ -1,5 +1,5 @@
 {
-  "name": "fca-duong",
+  "name": "fca-nguyen",
   "version": "7.4.0",
   "description": "This repo is a fork from the main repo and will usually have new features integrated faster than the main repo (and may also include certain bugs)",
   "scripts": {
@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ThanhDuong465052998/fca-duonggg"
+    "url": "git://github.com/nguyendzok/Fca-HNN"
   },
   "keywords": [
     "Fca",
-    "fca-duong",
+    "fca-nguyen",
     "fca bot",
     "fca",
-    "Fca-duong"
+    "Fca-nguyen"
   ],
   "bugs": {
-    "url": "https://github.com/ThanhDuong465052998/fca-duonggg"
+    "url": "https://github.com/nguyendzok/Fca-HNN"
   },
   "author": "Avery, David, Maude, Benjamin, Kanzu",
   "license": "MIT",
