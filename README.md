@@ -10,14 +10,14 @@ API Này Là Cách Duy Nhất Để Tự Động Hóa Các Chức Năng Trò Chu
 # Cài đặt
 Nếu Bạn Muốn Sử Dụng, Hãy Vô Terminal Hoặc Command Promt Nhập:
 ```bash
-npm install fca-duong
+npm install fca-nguyen
 ```
 Nó Sẽ Tải Xuống Từ Kho NPM
 
 ## Tải Bản Mới Nhất Hoặc Update
 Nếu Bạn Muốn Sử Dụng Phiên Bản Mới Nhất Hay Cập Nhật Thì Hãy Vô Terminal Hoặc Command Promt Nhập:
 ```bash
-npm install fca-duong@latest
+npm install fca-nguyen@latest
 ```
 
 ## Nếu Bạn Muốn Test Api
@@ -25,7 +25,7 @@ Lợi Ích Cho Việc Này Thì Bạn Sẽ Không Tốn Thời Gian Pay Acc Và 
 
 ## Ví dụ sử dụng
 ```javascript
-const login = require("fca-duong");
+const login = require("fca-nguyen");
 
 // Create simple echo bot
 login({email: "FB_EMAIL", password: "FB_PASSWORD"}, (err, api) => {
@@ -54,7 +54,7 @@ Và Chế Độ Này Đã Có Sẵn Trong 1 Số Bot Việt Nam Nên Bạn Cứ 
 ### Hướng Dẫn Với Appstate
 ```javascript
 const fs = require("fs");
-const login = require("fca-duong");
+const login = require("fca-nguyen");
 
 var credentials = {email: "FB_EMAIL", password: "FB_PASSWORD"}; // thông tin tk
 
