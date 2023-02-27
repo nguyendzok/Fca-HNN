@@ -1,5 +1,5 @@
 {
-  "name": "fca-duong",
+  "name": "fca-nguyen",
   "version": "6.2.0",
   "description": "Facebook Chat Api",
   "scripts": {
@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ThanhDuong465052998/fca-duonggg"
+    "url": "git://github.com/nguyendzok/Fca-HNN"
   },
   "keywords": [
     "Fca",
-    "fca-duong",
+    "fca-nguyen",
     "Duong",
     "TranThanhDuong",
     "fca bot",
     "fca",
-    "Fca-duong"
+    "Fca-hnn"
   ],
   "bugs": {
-    "url": "https://github.com/ThanhDuong465052998/fca-duonggg"
+    "url": "https://github.com/nguyendzok/Fca-HNN"
   },
   "author": "Avery, David, Maude, Benjamin, Kanzu",
   "license": "MIT",
